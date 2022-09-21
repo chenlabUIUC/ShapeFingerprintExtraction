@@ -1,6 +1,6 @@
 # ShapeFringerprintExtraction
 Matlab script examples of nanomaterial shape fringerprint extraction.   
-Date: 11/2021  
+Date: 09/2022  
 For more information about the project, algorithms, and related publications please refer to the [Chen Group website](https://chenlab.matse.illinois.edu/).
 
 Reference
