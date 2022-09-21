@@ -5,7 +5,7 @@ For more information about the project, algorithms, and related publications ple
 
 Reference
 ---------------
-If you find our approach useful, please cite: L. Yao, H. An, S. Zhou, A. Kim, E. Luijten, Q. Chen, "Unveil the synthesis‒nanomorphology relationships of heterogeneous nanoparticles, hybrids, and 3D polymer films using generalizable shape fingerprints and unsupervised learning", ACS Central Science (2021)
+If you find our approach useful, please cite: L. Yao, H. An, S. Zhou, A. Kim, E. Luijten, Q. Chen, "Unveiling the synthesis‒nanomorphology relationships of heterogeneous nanoparticles, hybrids, and 3D polymer films using generalizable shape fingerprints and unsupervised learning", nanoscale (2022)
 
 Getting started
 ---------------
